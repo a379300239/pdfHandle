@@ -1,3 +1,6 @@
+# 简介
+    实现pdf读取
+
 # 库需求
     requests:网络请求
     pdfplumber:读取pdf数据
